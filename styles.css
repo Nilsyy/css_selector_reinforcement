@@ -1,0 +1,13 @@
+
+p {
+  color: #red;
+}
+a:hover {
+  color: #blue;
+}
+h1 {
+  font-size: 100px;
+}
+body > ul > li {
+  display: inline-block;
+}
